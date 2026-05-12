@@ -1,0 +1,6 @@
+{
+  "name": "Huda Scraper",
+  "description": "A web scraping tool built with React, Vite, and Gemini AI, configured for Vercel deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
